@@ -33,9 +33,8 @@
     name: "Filip Rehburg",
     primary-info: [
       Master of Logic Student \
-      MITea \
-      Building 123, Room 456 \
-      Cambrew, MA
+      ILLC, UvA \
+      Amsterdam, NL
     ],
     secondary-info: [
       #link("mailto:filip.rehburg@student.uva.nl")[filip.rehburg\@student.uva.nl] \
