@@ -82,15 +82,24 @@ Reasoning, Neuro-Symbolic AI, Deep Learning, Graph Neural Networks, Knowledge Re
 #meta-entry-item-list(
   c2-text-args: (weight: "regular"),
   c1-len: 8em,
-  (c1: [UvA: #link("https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/129992")[52041DEL6Y]], c2: [Deep Learning 1 8/10]),
-  (c1: [UM: #link("https://www.maastrichtuniversity.nl/education/bachelor/programmes/data-science-and-artificial-intelligence/courses-and-curriculum")[KEN2520]], c2: [Machine Learning 9/10]),
-  (c1: [UM: #link("https://www.maastrichtuniversity.nl/education/bachelor/programmes/data-science-and-artificial-intelligence/courses-and-curriculum")[KEN2110]], c2: [Graph Theory 9/10]),
+  (c1: [UvA: #link("https://coursecatalogue.uva.nl/en/courses/2026/1/59202")[5204IEIA6Y]], c2: [Interpretability & Explainability in AI], c3: [9/10]),
+  (c1: [UvA: #link("https://coursecatalogue.uva.nl/en/courses/2026/1/58850")[5314COCO6Y]], c2: [Computational Complexity], c3: [9/10]),
+  (c1: [UvA: #link("https://coursecatalogue.uva.nl/en/courses/2026/1/60563")[5314LDEC6Y]], c2: [Logic, Data Examples, and Computational Learning Theory], c3: [8.5/10]),
+  (c1: [UvA: #link("https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/129992")[52041DEL6Y]], c2: [Deep Learning 1], c3: [8/10]),
+  // (c1: [UM: #link("https://www.maastrichtuniversity.nl/education/bachelor/programmes/data-science-and-artificial-intelligence/courses-and-curriculum")[KEN2520]], c2: [Machine Learning 9/10]),
+  // (c1: [UM: #link("https://www.maastrichtuniversity.nl/education/bachelor/programmes/data-science-and-artificial-intelligence/courses-and-curriculum")[KEN2110]], c2: [Graph Theory 9/10]),
 )
 
 == Experience
 
 #meta-entry-item-list(
   c1-len: 7em,
+  (
+    c1: "12/2023 - 12/2024",
+    c2: "Research Assistant Computer Science",
+    c3: "Vrije Universiteit Amsterdam, Amsterdam, NL",
+    body: [Developing a theoretically grounded approach to implementing rule-level forgetting in Neuro-Symbolic Graph Neural Networks trained to learn a set of representative rules from a Datalog dataset.],
+  ),
   (
     c1: "12/2023 - 12/2024",
     c2: "Research Fellow Medical Data Science",
